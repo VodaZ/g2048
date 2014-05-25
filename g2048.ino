@@ -38,7 +38,6 @@ Point p;
 
 //proměnné používané ve hře
 
-//p
 byte stat = 0; //0 - úvodní obrazovka, 1 - normální hra, 2 - prohra, 3 - výhra
 
 byte plocha[4][4]; //pole pro uložení hodnot jednotlivých dlaždic plochy
